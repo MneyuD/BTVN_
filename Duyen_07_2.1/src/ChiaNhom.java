@@ -35,7 +35,7 @@ public class ChiaNhom {
                 size = sc.nextInt();
                 bl = true;
             } catch (Exception e) {
-                System.out.println("Sai dữ kiện!!! Nhập số nguyên!!!");
+                System.out.println("Sai dữ kiện!!! ");
                 sc.nextLine();
             }
         } while (!bl);
